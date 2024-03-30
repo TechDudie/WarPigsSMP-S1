@@ -1,0 +1,6 @@
+name: TechnoBladeNeverDies
+version: 1.0.0
+main: com.technodot.warpigssmp.WarPigsMod
+description: TechnoBlade Never Dies
+author: TechnoDot
+api-version: '1.20'
